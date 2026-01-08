@@ -1,15 +1,24 @@
-# Movie Collection - Streaming Landing Page
+# Movie Collection Landing Page
 
-A clean, responsive movie landing page inspired by Netflix design. Built with vanilla HTML and CSS featuring hero section and featured movie grid.
+First session project from the 5-Day Full Stack Development Bootcamp I conducted for GDG Chennai Institute of Technology. This project teaches HTML5 and CSS3 fundamentals through building a Netflix-inspired movie streaming interface.
 
-## Features
-- **Hero Section**: Bold "Unlimited Movies & More" banner
-- **Featured Movies Grid**: 6 curated movies with poster images
-- **Watch Now Buttons**: Direct links to individual movie pages
-- **Responsive Design**: Dark theme with modern card-based layout
-- **Footer Section**: Social media links and copyright information
+## About This Project
+This was the **Day 1** hands-on project where I taught 50+ students:
+- Semantic HTML structure
+- CSS Grid and Flexbox layouts
+- Responsive design principles
+- Dark theme implementation
+- Interactive button states
 
-## Movies Included
+## Project Overview
+A movie streaming landing page featuring:
+- **Hero Section**: Bold headline with call-to-action
+- **Featured Movies Grid**: 6 popular movies with posters
+- **Individual Movie Pages**: Detailed movie information
+- **Responsive Layout**: Works on all screen sizes
+- **Dark Theme**: Cinematic user experience
+
+## Movies Featured
 - Interstellar
 - The Dark Knight
 - Avengers: Endgame
@@ -18,8 +27,28 @@ A clean, responsive movie landing page inspired by Netflix design. Built with va
 - Avatar
 
 ## Tech Stack
-- **HTML5**: Semantic structure
-- **CSS3**: Custom styling with dark theme
-- **Layout**: Flexbox grid system
+- HTML5 (Semantic markup)
+- CSS3 (Flexbox, Grid, Custom properties)
+- Vanilla JavaScript (No frameworks)
+
+## What Students Learned
+### HTML Concepts
+- Semantic elements (`<header>`, `<section>`, `<footer>`)
+- Proper image handling
+- Link structure and navigation
+- Form elements (buttons)
+
+### CSS Concepts
+- Flexbox for layout
+- Grid system for movie cards
+- Dark color schemes
+- Hover effects and transitions
+- Responsive design with media queries
+
+### Design Principles
+- Netflix-inspired UI/UX
+- Card-based layouts
+- Typography hierarchy
+- Color contrast for readability
 
 ## Project Structure
